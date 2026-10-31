@@ -1,0 +1,11 @@
+Test Case,Status,Latency (seconds)
+Fee Status,PASS,0.008
+Scholarship Status,PASS,0.0019
+Policy Retrieval,PASS,0.0111
+Memory Retrieval,PASS,0.0032
+Own Record Access,PASS,0.0019
+Other Student Access Denied,PASS,0.0
+Unauthorized Approval Blocked,PASS,0.0146
+Password Protection,PASS,0.0012
+OTP Protection,PASS,0.0009
+Normal Memory Storage,PASS,0.0052
