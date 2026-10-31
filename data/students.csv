@@ -1,0 +1,6 @@
+student_id,name,programme,fee_status,total_fees,paid_fees,scholarship_status
+STU001,Demo Student 1,PGDM Big Data Analytics,Paid,150000,150000,Approved
+STU002,Demo Student 2,PGDM Finance,Pending,150000,100000,Pending
+STU003,Demo Student 3,PGDM Marketing,Partial,150000,75000,Approved
+STU004,Demo Student 4,PGDM Big Data Analytics,Pending,150000,50000,Not Applied
+STU005,Demo Student 5,PGDM HR,Partial,150000,120000,Pending
