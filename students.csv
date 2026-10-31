@@ -1,0 +1,7 @@
+
+student_id,name,programme,fee_status,total_fees,paid_fees,scholarship_status
+STU001,Umesh Patel,PGDM Big Data Analytics,Paid,150000,150000,Approved
+STU002,Rahul Sharma,PGDM Finance,Pending,150000,100000,Pending
+STU003,Priya Shah,PGDM Marketing,Partial,150000,75000,Approved
+STU004,Amit Verma,PGDM Big Data Analytics,Pending,150000,50000,Not Applied
+STU005,Neha Joshi,PGDM HR,Partial,150000,120000,Pending
