@@ -3,6 +3,13 @@ import streamlit as st
 import pandas as pd
 from agent import run_agent
 from approval import review_approval, get_audit_logs
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+
+ADMIN_ID = os.getenv("ADMIN_ID")
+ADMIN_PASSWORD = os.getenv("ADMIN_PASSWORD")
 
 # --------------------------------
 # PAGE CONFIGURATION
